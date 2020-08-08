@@ -4,7 +4,7 @@
 Google treats a hyphen as a word separator, but does not treat an underscore that way.
 Google treats and underscore as a word joiner — so red_sneakers is the same as redsneakers to Google.
 ```
-I follow the above File Naming Rules, but Python, knitr and R Markdown users should use hyphens.
+I take care of the above and give the file name, but knitr and R Markdown users should only use hyphens.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=renkarsu&show_icons=true&count_private=true)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&layout=compact)
