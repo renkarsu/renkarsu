@@ -9,6 +9,10 @@ I take care of the above and give the file name, but knitr and R Markdown users 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=renkarsu&show_icons=true&count_private=true)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&layout=compact)
 
+The newer repositories are worth reading. But of course, this is often not the case. This is because 90% of repositories are not put there for an unspecified number of people to see.
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github,
+
 <!--
 **renkarsu/renkarsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
