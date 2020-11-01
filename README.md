@@ -17,8 +17,8 @@ Top languages does not indicate my skill level or something like that, it's a gi
 
 I learned the below
 ```
-arduino, FUSION360, ML, Electronics, C/C++, C#, game creation, php, bot creation, drone programming, competitive programming,
-assembly, verilog, GAS, GCP, image processing, python, golang, html, and more
+arduino, FUSION360, Machine Learning, Electronics, C/C++, C#, game creation, php, bot creation, drone programming, competitive programming,
+assembly, verilog, GAS, GCP, image processing, python, golang, html, css, javascript and more
 ```
 but, I don't put all of them on github.
 
