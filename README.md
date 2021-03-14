@@ -9,7 +9,7 @@ Google treats and underscore as a word joiner — so red_sneakers is the same as
 I’m aware of the above and give the file name, but knitr and R Markdown users should only use hyphens.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=renkarsu&show_icons=true&count_private=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&hide=jupyter%20notebook&langs_count=9&layout=compact)
 
 The newer repositories are worth reading. But of course, this is often not the case. This is because 90% of repositories are not put there for an unspecified number of people to see. Only ‘triangleLibrary’ in cpp is put for unspecified number of people to see.
 
@@ -41,7 +41,7 @@ ver1:=
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=renkarsu&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&hide=jupyter%20notebook&langs_count=9&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&layout=compact" />
 </a>
 ver2:=
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=renkarsu&show_icons=true&count_private=true)
