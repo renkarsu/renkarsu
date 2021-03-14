@@ -41,7 +41,7 @@ ver1:=
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=renkarsu&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&hide=jupyter%20notebook&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renkarsu&hide=jupyter%20notebook&langs_count=9&layout=compact" />
 </a>
 ver2:=
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=renkarsu&show_icons=true&count_private=true)
